@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "info": "Manaswini Aitha",
+      "description": "Senior Software Engineer with 3 years of relevant work experience. Curious soul! "
+    },
+    {
+      "id": 2,
+      "info": "Education",
+      "description": "Masters from University of Chicago"
+    },
+    {
+      "id": 3,
+      "info": "Profession",
+      "description": "Senior Software Engineer at Sandisk Technologies, Inc., Milpitas (current). Worked as a Software Engineer at Societe Generale Global Solution Center, India(past)."
+    },
+    {
+      "id": 5,
+      "info": "linkedin",
+      "description": "https://www.linkedin.com/in/manaswinia/"
+    },
+    {
+      "id": 5,
+      "info": "github",
+      "description": "https://github.com/AManaswini"
+    }
+]
